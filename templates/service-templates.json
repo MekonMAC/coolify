@@ -4548,6 +4548,22 @@
     "minversion": "0.0.0",
     "port": "3567"
   },
+  "surrealdb": {
+    "documentation": "https://surrealdb.com",
+    "slogan": "SurrealDB is an end-to-end cloud-native database for tomorrow's applications.",
+    "compose": "IyBkb2N1bWVudGF0aW9uOiBodHRwczovL3N1cnJlYWxkYi5jb20KIyBzbG9nYW46IFN1cnJlYWxEQiBpcyBhbiBlbmQtdG8tZW5kIGNsb3VkLW5hdGl2ZSBkYXRhYmFzZSBmb3IgdG9tb3Jyb3cncyBhcHBsaWNhdGlvbnMuCiMgY2F0ZWdvcnk6IGRhdGFiYXNlCiMgdGFnczogZGF0YWJhc2UsIG5vc3FsLCBzcWwsIGdyYXBoLCBzZXJ2ZXJsZXNzCiMgbG9nbzogc3Zncy9zdXJyZWFsZGIuc3ZnCiMgcG9ydDogODAwMAoKc2VydmljZXM6CiAgc3VycmVhbGRiOgogICAgaW1hZ2U6IHN1cnJlYWxkYi9zdXJyZWFsZGI6bGF0ZXN0CiAgICBjb21tYW5kOiBzdGFydCAtLWxvZyB0cmFjZSAtLXVzZXIgJFNFUlZJQ0VfVVNFUl9TVVJSRUFMREIgLS1wYXNzICRTRVJWSUNFX1BBU1NXT1JEX1NVUlJFQUxEQiBmaWxlOi9kYXRhL3N1cnJlYWwuZGIKICAgIGVudmlyb25tZW50OgogICAgICAtIFNFUlZJQ0VfRlFETl9TVVJSRUFMREIKICAgICAgLSBTVVJSRUFMX1VTRVI9JFNFUlZJQ0VfVVNFUl9TVVJSRUFMREIKICAgICAgLSBTVVJSRUFMX1BBU1M9JFNFUlZJQ0VfUEFTU1dPUkRfU1VSUkVBTERCCiAgICB2b2x1bWVzOgogICAgICAtIHN1cnJlYWwtZGF0YTovZGF0YQogICAgaGVhbHRoY2hlY2s6CiAgICAgIHRlc3Q6IFsiQ01EIiwgImN1cmwiLCAiLWYiLCAiaHR0cDovLzEyNy4wLjAuMTo4MDAwL2hlYWx0aCJdCiAgICAgIGludGVydmFsOiA1cwogICAgICB0aW1lb3V0OiAxMHMKICAgICAgcmV0cmllczogNQo=",
+    "tags": [
+      "database",
+      "nosql",
+      "sql",
+      "graph",
+      "serverless"
+    ],
+    "category": "database",
+    "logo": "svgs/surrealdb.svg",
+    "minversion": "0.0.0",
+    "port": "8000"
+  },
   "swetrix": {
     "documentation": "https://docs.swetrix.com/selfhosting/how-to?utm_source=coolify.io",
     "slogan": "Privacy-friendly and cookieless European web analytics alternative to Google Analytics.",
